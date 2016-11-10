@@ -1,7 +1,7 @@
 {
   "name": "docker.xvfb",
   "docker_name": "shimaore/xvfb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xfvb in docker",
   "author": "Stéphane Alnet <stephane@shimaore.net> (https://stephane.shimaore.net/)",
   "license": "Unlicense",
